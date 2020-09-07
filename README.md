@@ -11,8 +11,6 @@ Sabrina é uma assistente virtual que possa auxiliar na rotina da mulher multita
 
 Montei os diagramas com o que a Sabrina irá fornecer (por enquanto) para o usuário, iniciei com a apresentação de Sabrina e fui conectando com tudo que o Sebrae fornece, como a possibilidade de fazer inscrição no site deles, lives, sebrae delas, canvas, os cursos gratuitos, Instagram e coloquei uma opção de abrir um Ticket para meu desk, para mandar alguma mensagem de erro ou outro respectivo assunto. Como RoadMap, quero implementar a marcação de Consultorias com a BOT, com a integração do SEBRAE+ Google Calendar.
 
-![Alt text](/relative/path/to/diagrama.jpg?raw=true "Optional Title")
-
 # Integrações disponíveis
 
 Com a possibilidade de integrações, fiz com o Messenger e ao RD Station, penso como RoadMap a integração com o WhatsApp, Google Calendar e Gmail.
