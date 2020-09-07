@@ -2,6 +2,8 @@
 O projeto WIB - Women In Business nasceu de um Hackathon feminino, no qual analisamos uma situação recorrente na vida das mulheres: a dificuldade de gerir seu tempo em meio a tantas tarefas que precisam ser conciliadas no dia a dia. É um projeto com propósito de ajudar a otimizar o tempo de busca dentro do site com ajuda de Inteligência
 Artificial.
 
+![Image of LOGO](https://cdn.discordapp.com/attachments/751117432722030800/751206189274234990/3-removebg-preview.png)
+
 
 # Descrição do projeto
 
