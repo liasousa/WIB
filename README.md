@@ -2,9 +2,6 @@
 O projeto WIB - Women In Business nasceu de um Hackathon feminino, no qual analisamos uma situação recorrente na vida das mulheres: a dificuldade de gerir seu tempo em meio a tantas tarefas que precisam ser conciliadas no dia a dia. É um projeto com propósito de ajudar a otimizar o tempo de busca dentro do site com ajuda de Inteligência
 Artificial.
 
-![Image of LOGO](https://cdn.discordapp.com/attachments/751117432722030800/751206189274234990/3-removebg-preview.png)
-
-
 # Descrição do projeto
 
 Sabrina é uma assistente virtual que possa auxiliar na rotina da mulher multitarefa, que é usuária dos serviços da plataforma do Sebrae Delas, um atendimento mais personalizado, onde ela oferece informações de maneira mais assertiva, agendar consultorias, ver lives e conhecer outras plataformas do Sebrae diretamente sem atalhos, links diretos para os cursos desejados de uma forma simples, direta e automatizada.
