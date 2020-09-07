@@ -4,7 +4,7 @@ Artificial.
 
 # Descrição do projeto
 
-Sabrina é uma assistente virtual que possa auxiliar na rotina da mulher multitarefa, que é usuária dos serviços da plataforma do Sebrae Delas, um atendimento mais personalizado, onde ela oferece informações de maneira mais assertiva, agendar consultorias, ver lives e conhecer outras plataformas do Sebrae diretamente sem atalhos, links diretos para os cursos desejados de uma forma simples, direta e automatizada.
+Mapeando o mercado, vimos que não tinha uma assistente para ajudar essas mulheres empreendedoras no site do Sebrae e como solução dos problemas para elas mulheres criamos a Sabrina. Sabrina é uma assistente virtual que possa auxiliar na rotina da mulher multitarefa, que é usuária dos serviços da plataforma do Sebrae Delas, um atendimento mais personalizado, onde ela oferece informações de maneira mais assertiva, agendar consultorias, ver lives e conhecer outras plataformas do Sebrae diretamente sem atalhos, links diretos para os cursos desejados de uma forma simples, direta e automatizada.
 
 # Como funciona
 
